@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --color-primary: red;
+    --color-secondary: blue;
+    --color-red: #ff0000;
+    --color-yellow: #ffd700;
+
+    --bg-gray: #f1f1f1;
+    --bg-white: #ffffff;
+
+    --logo-text: 24px;
+
+    --margin-s: 4px;
+    --margin-m: 8px;
+    --margin-l: 12px;
+}
+
+html{
+    font-family: Roboto, sans-serif;
+}
+
+  

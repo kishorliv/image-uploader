@@ -1,0 +1,7 @@
+{
+    "extends": ["airbnb", "airbnb/hooks"],
+    "rules": {
+        // disable requiring trailing commas
+        "comma-dangle": 0
+    }
+}
